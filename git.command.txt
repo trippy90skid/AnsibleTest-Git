@@ -35,3 +35,4 @@
   948  clear
   949  ls -ltr
   950  cd project/
+add 2 lines
