@@ -1,0 +1,37 @@
+ git init
+  915  ls -a
+  916  touch ansible.txt
+  917  git status 
+  918  git commit 
+  919  it config --global user.email "rocky.santosh469@gmail.com"
+  920  git config --global user.email "rocky.santosh469@gmail.com"
+  921  git commit 
+  922  git add
+  923  git add ansible.txt 
+  924  git commit 
+  925  git status
+  926  git add ansible.txt 
+  927  git commit 
+  928  git commit -m "l-l-git"
+  929  git commit -m "ansible.text added"
+  930  git status 
+  931  ls -ltr
+  932  git status 
+  933  sudo nano ansible.txt 
+  934  git add ansible.txt 
+  935  git commit -m "new-text"
+  936  git status
+  937  git log
+  938  rm -g ansible.txt 
+  939  rm -f ansible.txt 
+  940  git status 
+  941  git add ansible.txt 
+  942  git commit -m "re-added file"
+  943  cat an
+  944  ls -ltr
+  945  git status
+  946  git log 
+  947  shutdown -h now
+  948  clear
+  949  ls -ltr
+  950  cd project/
