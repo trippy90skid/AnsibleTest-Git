@@ -1,0 +1,13 @@
+---
+
+- name: Network Automation Getting Started
+  connection: ansible.netcommon.network_cli
+  gather_facts: false
+  hosts: all
+  tasks:
+
+    - name: Create Username 
+      ios_config:
+        backup: no
+        lines:
+          - username ansible privilege 15 password ansible
